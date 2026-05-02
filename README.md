@@ -73,19 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subash7280&show_icons=true&theme=radical" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=subash7280&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash7280&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
