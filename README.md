@@ -12,12 +12,12 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently working at **SPAN Technology Services**
-- ⚡ Building **scalable, high-performance web applications**
-- 👯 Open to collaborating on **open-source & impactful products**
-- 🌱 Learning **Advanced Next.js 14, SQL optimization & Bun.js**
-- 💬 Ask me about **APIs, performance optimization & system design**
-- 🚀 From MERN dev → **Engineering scalable systems**
+🔭 Currently working at **SPAN Technology Services**
+⚡ Building **scalable, high-performance web applications**
+👯 Open to collaborating on **open-source & impactful products**
+🌱 Learning **Advanced Next.js 14, SQL optimization & Bun.js**
+💬 Ask me about **APIs, performance optimization & system design**
+🚀 From MERN dev → **Engineering scalable systems**
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 🧑‍💻 Trainee Engineer (2023 – 2024)
+### 🧑‍💻 Junior Software Engineer Trainee (2023 – 2024)
 
 - 📈 Improved SEO crawl by **60% (SSR with Next.js)**
 - ⚡ Increased API performance by **30%**
@@ -95,11 +95,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  🔥 Profile Views 🔥<br>
-  <img src="https://visitcount.itsvg.in/api?id=subash7280&icon=5&color=12" />
 </p>
