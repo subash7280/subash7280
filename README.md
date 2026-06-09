@@ -1,98 +1,123 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Subash</h1>
-<h3 align="center">🚀 Building Scalable Web Apps | Next.js • Node.js • Cloud</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Next.js+%2B+Node.js+Specialist;Building+High-Performance+Apps;Always+Learning+🚀" />
-</p>
+# Subash Eswaramoorthi
 
----
+**Full-Stack Engineer · Node.js · Next.js · Distributed Systems**
 
-## 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subash-eswaramoorthi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subasheswaramoorthi143@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=subash7280&style=flat-square&color=0A66C2)](https://github.com/subash7280)
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🔭 Currently working at **SPAN Technology Services**
-⚡ Building **scalable, high-performance web applications**
-👯 Open to collaborating on **open-source & impactful products**
-🌱 Learning **Advanced Next.js 14, SQL optimization & Bun.js**
-💬 Ask me about **APIs, performance optimization & system design**
-🚀 From MERN dev → **Engineering scalable systems**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+Software engineer with 3+ years of progressive experience building production-grade web platforms at **SPAN Technology Services**. I work across the full stack — from React/Next.js frontends to Node.js microservices and distributed backend systems — with a consistent focus on performance, reliability, and maintainable architecture.
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express)
+I've led and delivered systems that handle multi-tenant SaaS workloads, real-time event-driven pipelines, and high-throughput APIs. My work spans product features, infrastructure improvements, and cross-team delivery ownership.
 
-### 🧠 Databases & Systems
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis)
-![Kafka](https://img.shields.io/badge/kafka-black?style=for-the-badge&logo=apachekafka)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+**Current focus:** Scalable system design, cloud cost optimization, and production-readiness patterns for Node.js services.
 
 ---
 
-## 💼 Experience
+## Engineering Experience
 
-### 🧑‍💻 Software Engineer (2026 – Present)
-**SPAN Technology Services**
+### Software Engineer &nbsp;·&nbsp; SPAN Technology Services &nbsp;·&nbsp; 2026 – Present
 
-- 🚀 Reduced page load time & bounce rate by **20%**
-- ⚡ Optimized MongoDB queries → **25% faster**
-- 💰 Cut AWS SES costs using smarter email workflows
-- 🧩 Led sprint planning & delivered **100% sprint success**
-- 🎯 Improved onboarding speed by **40%**
+- Reduced client-facing page load time and bounce rate by **20%** through SSR optimization and strategic code-splitting in Next.js
+- Optimized critical MongoDB aggregation pipelines, achieving **25% reduction** in query execution time under production load
+- Redesigned email notification workflows using AWS SES — reduced infrastructure cost with no degradation in delivery reliability
+- Introduced sprint ownership model; achieved **100% sprint delivery rate** over 6 consecutive cycles
+- Rebuilt onboarding flow, cutting average time-to-activation by **40%**
 
----
+### Junior Software Engineer &nbsp;·&nbsp; SPAN Technology Services &nbsp;·&nbsp; 2024 – 2026
 
-### 🧑‍💻 Junior Software Engineer (2024 – 2026)
+- Architected and shipped a **Kafka-based event-driven microservices system**, decoupling core domain services and enabling independent scaling
+- Designed and enforced RBAC across a multi-tenant platform — reduced unauthorized access incidents by **98%**
+- Introduced Redis caching layer on high-frequency read paths — improved average API response time by **35%**
+- Built a **multi-tenant white-label platform** supporting multiple client brands from a single codebase with isolated config, routing, and data namespacing
 
-- 🏗️ Built **Kafka-based microservices architecture**
-- 🔐 Reduced unauthorized access by **98% (RBAC)**
-- ⚡ Improved response time by **35% using Redis**
-- 🌐 Built **multi-tenant white-label platform**
+### Junior Software Engineer Trainee &nbsp;·&nbsp; SPAN Technology Services &nbsp;·&nbsp; 2023 – 2024
 
----
-
-### 🧑‍💻 Junior Software Engineer Trainee (2023 – 2024)
-
-- 📈 Improved SEO crawl by **60% (SSR with Next.js)**
-- ⚡ Increased API performance by **30%**
-- 🧩 Built reusable UI component library
+- Migrated key marketing pages from CSR to SSR using Next.js — improved search engine crawl coverage by **60%**
+- Refactored and indexed high-traffic REST endpoints — raised throughput by **30%** with no schema changes
+- Built an internal shared component library adopted across 3 product teams, reducing UI duplication and accelerating feature delivery
 
 ---
 
-## 🏆 Achievements
+## Technical Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subash7280&theme=radical&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/subash-eswaramoorthi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/subash.eswaramoorthi"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:subasheswaramoorthi143@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+| Layer | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST, WebSockets |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Messaging** | Apache Kafka |
+| **Cloud & Infra** | AWS (SES, S3, EC2), Vercel, Docker |
+| **Practices** | CI/CD, RBAC, SSR/ISR, Microservices, Event-Driven Architecture |
 
 ---
 
-## ✨ Fun Zone
+## Engineering Principles
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+These aren't aspirations — they're the standards I hold my own work to:
+
+- **Own the outcome, not just the ticket.** I track the impact of what I ship, not just whether it merged.
+- **Performance is a feature.** I treat response time, bundle size, and query cost as first-class concerns.
+- **Code is a liability until it's tested.** I write for the engineer who maintains it next, not just the interpreter that runs it now.
+- **Architecture decisions have a half-life.** I document trade-offs and revisit them as systems evolve.
+- **Security is not a phase.** Access control, input validation, and least-privilege patterns are part of design, not afterthoughts.
+
+---
+
+## System Design Interests
+
+Areas I actively study and apply at work:
+
+- Event-driven architectures and message queue patterns (Kafka, pub/sub)
+- Multi-tenancy: data isolation, routing, and per-tenant configuration
+- Caching strategies: cache invalidation, read-through, write-behind
+- Database performance: query planning, indexing, denormalization trade-offs
+- API design: versioning, pagination, rate limiting, backward compatibility
+- Observability: structured logging, distributed tracing, alerting
+
+---
+
+## Current Learning
+
+- **PostgreSQL internals** — query planner, EXPLAIN ANALYZE, partial indexes
+- **System design depth** — reading *Designing Data-Intensive Applications* and applying patterns to current projects
+- **Bun.js runtime** — evaluating for Node.js-adjacent workloads
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash7280&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subash7280&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subash7280&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+Open to senior full-stack roles, contract work, and technical conversations.
+
+- **LinkedIn:** [linkedin.com/in/subash-eswaramoorthi](https://linkedin.com/in/subash-eswaramoorthi)
+- **Email:** subasheswaramoorthi143@gmail.com
+
+Response time: typically within 24 hours on weekdays.
+
+---
+
+<div align="center">
+<sub>Last updated June 2026</sub>
+</div>
